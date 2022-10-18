@@ -1,3 +1,2 @@
-.github/workflows/main.yml
 fukuoka/Mojiko/about.md
-fukuoka/Mojiko/see.md
+fukuoka/Mojiko/access.md
