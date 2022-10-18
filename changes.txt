@@ -1,2 +1,2 @@
-fukuoka/Mojiko/about.md
 fukuoka/Mojiko/access.md
+fukuoka/Mojiko/see.md
