@@ -1,20 +1,3 @@
-tokyo/Akihabara/see.md
-tokyo/Asakusa/see.md
-tokyo/Daikanyama/see.md
-tokyo/Ebisu/see.md
-tokyo/Ghibli_Mitaka/see.md
-tokyo/Ginza_Yurakucho/see.md
-tokyo/Harajuku_Omotesando/see.md
-tokyo/Ikebukuro/see.md
-tokyo/Jiyugaoka/see.md
-tokyo/Kichijoji/see.md
-tokyo/Koenji/see.md
-tokyo/Mt.Takao/see.md
-tokyo/Nakameguro/see.md
-tokyo/Narita/see.md
-tokyo/Odaiba/see.md
-tokyo/Roppongi/see.md
-tokyo/Shibuya/see.md
 tokyo/Shimokitazawa/access.md
 tokyo/Shimokitazawa/see.md
 tokyo/Shinagawa/access.md
@@ -27,6 +10,3 @@ tokyo/Tokyo_SkyTree/see.md
 tokyo/Tokyo_Station_Area/access.md
 tokyo/Tokyo_Station_Area/recommend.md
 tokyo/Tokyo_Station_Area/see.md
-tokyo/Toyosu/see.md
-tokyo/Tsukiji/see.md
-tokyo/Ueno/see.md
